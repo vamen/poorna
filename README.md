@@ -1,5 +1,5 @@
 # highway
-Data platform that supports fast streaming of mini batches  and  fast generating reports on macro batches
+Data platform that supports fast streaming of mini batches  and  fast generating reports on macro batches. (still in ideation stage)
 
 **Need for the project**
 
