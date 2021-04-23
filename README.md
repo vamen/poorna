@@ -18,6 +18,10 @@ The Idea of this project is to reduce **TOT** (turn arround time) by
 - Reduce independent componet.(queues,schedulers,etl jobs) and combine them into single modular project, 
 - switch between Distributed computing and single system computing. (whats the point running a job in cluster with 20 nodes when data is in kbs. (this happens a lot with ancillary data associated with main data)).
 - Still thinking. (Ideas are welcome and appriciated).
+-
+-
+- Include all the above with still supporting features like data versioning(SCD),schema validation and updation. 
+
 
 
 
