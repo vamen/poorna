@@ -17,7 +17,7 @@ Currents frameworks can not handle near realtimes,but engineers are worked up to
 The Idea of this project is to reduce **TOT** (turn arround time) by 
 - Reduce independent componet.(queues,schedulers,etl jobs) and combine them into single modular project, 
 - switch between Distributed computing and single system computing. (whats the point running a job in cluster with 20 nodes when data is in kbs. (this happens a lot with ancillary data associated with main data)).
-- Still thinks. (Ideas are welcome and appriciated).
+- Still thinking. (Ideas are welcome and appriciated).
 
 
 
